@@ -1,0 +1,37 @@
+datos del 000webhost free
+esta es la url del proyecto
+https://academiomega.000webhostapp.com/index.php
+
+usuarios y contraseñas del 000webhost
+admininistrador 
+adm1 aA1$
+adm3 aA1$
+adm4 aA1$
+
+profesores
+pro1 aA1$
+pro2 aA1$
+
+alumnos
+alu1 aA1$
+alu2 aA1$
+
+
+
+-------------------------------------------------------------------
+
+usuarios y contraseñas del servidor local xampp
+admininistrador 
+adm1 aA1$
+adm2 aA1$
+
+profesores
+pro1 aA1$
+pro2 aA1$
+pro5 aA1$
+
+alumnos
+alu1 aA1$
+alu2 aA1$
+
+
